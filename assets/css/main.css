@@ -243,9 +243,10 @@ h6 {
   line-height: 1;
 }
 
-.header .logo img {
-  max-height: 36px;
-  margin-right: 8px;
+.logo img {
+max-height: 120px !important;
+height: 120px !important;
+width: auto;
 }
 
 .header .logo h1 {
